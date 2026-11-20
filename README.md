@@ -1220,6 +1220,10 @@ Deutsch, Du-Form. Englisch nur für die beiden Lieferanten-Mails (V2) und die Pr
 **Neutrale Formulierungen**  
 Keine Pronomen für dich im Text, weil sie nicht angegeben sind.
 
+## Teilen
+
+Wenn dir die Prompts helfen und du zufrieden bist, teile sie gern weiter und markiere **@listingschmiede**. Das freut uns sehr. 🙂
+
 ## Lizenz
 
 Dieses Werk steht unter der [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0). Du darfst es nutzen, teilen und verändern, auch kommerziell, solange du den Urheber nennst: **CKnauz**.
